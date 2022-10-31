@@ -33,7 +33,6 @@ Scanner sc = new Scanner(System.in);
 //short s = sc.nextShort();
 //System.out.println(s);
 
-//long l = sc.nextLong();
-//System.out.println(l);
+
 }
 }
